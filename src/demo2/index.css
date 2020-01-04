@@ -1,0 +1,10 @@
+.block1 {
+    background-color: green;
+}
+.logo {
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-image: url(./images/logo.png);
+    background-size: cover;
+}

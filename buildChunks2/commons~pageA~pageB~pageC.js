@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(n,i,s){"use strict";util2="genshuixue2"}]]);

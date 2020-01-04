@@ -1,0 +1,41 @@
+::-webkit-input-placeholder {
+    color: red;
+}
+
+::-moz-placeholder {
+    color: red;
+}
+
+:-ms-input-placeholder {
+    color: red;
+}
+
+::-ms-input-placeholder {
+    color: red;
+}
+
+::placeholder {
+    color: red;
+}
+
+.postcss-container {
+    width:100px;
+    height:100px;
+    background:yellow;
+    -webkit-transition:width 2s, height 2s;
+    transition:width 2s, height 2s;
+}
+
+.postcss-container:hover {
+    width:200px;
+    height:200px;
+    -webkit-transform:rotate(180deg);
+            transform:rotate(180deg);
+}
+.less-container {
+  color: red;
+}
+
+.sass-container {
+  color: green; }
+

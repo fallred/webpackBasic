@@ -1,0 +1,1 @@
+export default util1 = 'genshuixue1';

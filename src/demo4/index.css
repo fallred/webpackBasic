@@ -1,0 +1,16 @@
+::placeholder {
+    color: red;
+}
+
+.postcss-container {
+    width:100px;
+    height:100px;
+    background:yellow;
+    transition:width 2s, height 2s;
+}
+
+.postcss-container:hover {
+    width:200px;
+    height:200px;
+    transform:rotate(180deg);
+}
